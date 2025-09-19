@@ -23,7 +23,7 @@ Getting the visualiser running is simple.
 
 1.  **Clone the Repository**
     ```bash
-    git clone [https://github.com/shivam02345/shortest_path.git](https://github.com/shivam02345/shortest_path.git)
+    git clone [https://github.com/sbmec04-lab/Shortest_Path_finder.git](https://github.com/sbmec04-lab/Shortest_Path_finder.git)
     cd shortest_path
     ```
 2.  **Open in Browser**
